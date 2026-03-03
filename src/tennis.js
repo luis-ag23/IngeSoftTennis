@@ -18,6 +18,13 @@ class Tennis {
                 return "Game for player 1";
             }
 
+            if(this.player2Points === this.player1Points + 1){
+                return "Advantage Player 2"
+            }
+            if(this.player2Points >= this.player1Points + 2){
+                return "Game for player 2";
+            }
+
 
         }
 

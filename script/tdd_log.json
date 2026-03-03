@@ -670,9 +670,31 @@
     "testId": 17
   },
   {
-    "commitId": "HEAD",
+    "commitId": "bc2cd2d1f782b40b09ce34c886a0f8440c943fe2",
     "commitName": "feat: caso donde el jugador 1 anota 5 veces jugador 2 anota 3 veces",
     "commitTimestamp": 1772504968278,
     "testId": 17
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1772505135692,
+    "success": true,
+    "testId": 18
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 0,
+    "numTotalTests": 12,
+    "timestamp": 1772505203902,
+    "success": true,
+    "testId": 18
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: caso donde el jugador 1 anota 3 veces jugador 2 anota 5 veces",
+    "commitTimestamp": 1772505240887,
+    "testId": 18
   }
 ]
