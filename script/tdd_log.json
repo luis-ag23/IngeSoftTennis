@@ -704,9 +704,15 @@
     "testId": 19
   },
   {
-    "commitId": "HEAD",
+    "commitId": "68395dcc0e08d61a77d0d774f034953efb0e5928",
     "commitName": "feat: añadiendo boton para reiniciar resultado",
     "commitTimestamp": 1772506149487,
     "testId": 20
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "fix: arreglando error en el package json",
+    "commitTimestamp": 1772506338890,
+    "testId": 21
   }
 ]

@@ -380,17 +380,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "68395dcc0e08d61a77d0d774f034953efb0e5928",
     "author": "Luis Aguilar",
     "commit": {
       "date": "2026-03-03T02:49:08.000Z",
       "message": "feat: añadiendo boton para reiniciar resultado",
-      "url": "https://github.com/luis-ag23/IngeSoftTennis/commit/HEAD"
+      "url": "https://github.com/luis-ag23/IngeSoftTennis/commit/68395dcc0e08d61a77d0d774f034953efb0e5928"
     },
     "stats": {
       "total": 10,
       "additions": 10,
       "deletions": 0,
+      "date": "2026-03-03"
+    },
+    "coverage": 93.75,
+    "test_count": 12,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Luis Aguilar",
+    "commit": {
+      "date": "2026-03-03T02:52:18.000Z",
+      "message": "fix: arreglando error en el package json",
+      "url": "https://github.com/luis-ag23/IngeSoftTennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 1,
+      "additions": 0,
+      "deletions": 1,
       "date": "2026-03-03"
     },
     "coverage": 93.75,
