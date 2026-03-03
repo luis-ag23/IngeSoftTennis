@@ -247,12 +247,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "65b0eb46c3fe20159c57952a086232a1955ad328",
     "author": "Luis Aguilar",
     "commit": {
       "date": "2026-03-03T02:07:59.000Z",
       "message": "feat: caso donde el jugador 2 anota 2 veces jugador 1 en 0",
-      "url": "https://github.com/luis-ag23/IngeSoftTennis/commit/HEAD"
+      "url": "https://github.com/luis-ag23/IngeSoftTennis/commit/65b0eb46c3fe20159c57952a086232a1955ad328"
     },
     "stats": {
       "total": 15,
@@ -262,6 +262,25 @@
     },
     "coverage": 100,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Luis Aguilar",
+    "commit": {
+      "date": "2026-03-03T02:09:34.000Z",
+      "message": "feat: caso donde el jugador 2 anota 3 veces jugador 1 en 0",
+      "url": "https://github.com/luis-ag23/IngeSoftTennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 15,
+      "additions": 14,
+      "deletions": 1,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }
