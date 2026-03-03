@@ -65,5 +65,21 @@ it("jugador 2 anota 3 veces jugador 1 anota 3 veces", () => {
     tennis.player2Scores();     
     tennis.player2Scores();     
     let resultado =tennis.score() 
-    expect(resultado).toEqual("Deuce - Deuce"); 
+    expect(resultado).toEqual("Deuce"); 
   }); 
+
+
+it("jugador 1 anota 4 veces jugador 1 anota 3 veces", () => {
+    let tennis = new Tennis();  
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player2Scores();     
+    tennis.player2Scores();     
+    tennis.player2Scores();     
+    let resultado = tennis.score() 
+    expect(resultado).toEqual("Advantage Player 1"); 
+  }); 
+
+  

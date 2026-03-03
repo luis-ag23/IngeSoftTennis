@@ -8,9 +8,12 @@ class Tennis {
         let player2Score = "Love";
 
         if (this.player1Points >= 3 && this.player2Points >= 3) {
-           if (this.player1Points === this.player2Points) {
-            return "Deuce - Deuce"
-        }
+           if (this.player1Points === this.player2Points){
+                return "Deuce"
+            }
+            if(this.player1Points === this.player2Points + 1){
+                return "Advantage Player 1";
+            }
         }
 
         if(this.player1Points == 1){
