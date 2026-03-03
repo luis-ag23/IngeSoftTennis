@@ -288,9 +288,71 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "b38631c9dfd597cde8fcb681124cf27d3cf01520",
     "commitName": "feat: Caso donde el partido comienza 0 0",
     "commitTimestamp": 1772501763834,
     "testId": 8
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1772501941594,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1772502002851,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1772502049846,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1772502133429,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1772502265252,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1772502279086,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1772502303005,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: caso donde el jugador 1 anota jugador dos en cero",
+    "commitTimestamp": 1772502355586,
+    "testId": 9
   }
 ]

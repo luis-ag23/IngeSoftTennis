@@ -152,17 +152,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "b38631c9dfd597cde8fcb681124cf27d3cf01520",
     "author": "Luis Aguilar",
     "commit": {
       "date": "2026-03-03T01:36:03.000Z",
       "message": "feat: Caso donde el partido comienza 0 0",
-      "url": "https://github.com/luis-ag23/IngeSoftTennis/commit/HEAD"
+      "url": "https://github.com/luis-ag23/IngeSoftTennis/commit/b38631c9dfd597cde8fcb681124cf27d3cf01520"
     },
     "stats": {
       "total": 23357,
       "additions": 22285,
       "deletions": 1072,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Luis Aguilar",
+    "commit": {
+      "date": "2026-03-03T01:45:54.000Z",
+      "message": "feat: caso donde el jugador 1 anota jugador dos en cero",
+      "url": "https://github.com/luis-ag23/IngeSoftTennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 36,
+      "additions": 18,
+      "deletions": 18,
       "date": "2026-03-03"
     },
     "coverage": 100,

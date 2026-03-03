@@ -6,3 +6,10 @@ describe("Tennis Scorer",()=>{
     expect(tennis.score()).toEqual("Love - Love")
   })
 });
+
+it("jugador 1 anota jugador dos en cero", () => {
+    let tennis = new Tennis();  
+    tennis.player1Scores();     
+    let resultado =tennis.score() 
+    expect(resultado).toEqual("15 - Love"); 
+  });
