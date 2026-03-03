@@ -7,6 +7,12 @@ class Tennis {
         let player1Score = "Love";
         let player2Score = "Love";
 
+        if (this.player1Points >= 3 && this.player2Points >= 3) {
+           if (this.player1Points === this.player2Points) {
+            return "Deuce - Deuce"
+        }
+        }
+
         if(this.player1Points == 1){
             player1Score = "15"
         }
@@ -26,6 +32,7 @@ class Tennis {
             player2Score = "40"
         }
 
+       
 
         return player1Score + " - " + player2Score;
 
