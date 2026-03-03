@@ -504,9 +504,23 @@
     "testId": 12
   },
   {
-    "commitId": "HEAD",
+    "commitId": "f2478d705afcb84948109c014ed57b0deb4624a4",
     "commitName": "feat: caso donde el jugador 2 anota jugador 1 en 0",
     "commitTimestamp": 1772503562149,
     "testId": 12
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1772503659746,
+    "success": true,
+    "testId": 13
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: caso donde el jugador 2 anota 2 veces jugador 1 en 0",
+    "commitTimestamp": 1772503680547,
+    "testId": 13
   }
 ]
