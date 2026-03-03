@@ -342,17 +342,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "f75136fc246e5d0a476b99383708abfb68a778f8",
     "author": "Luis Aguilar",
     "commit": {
       "date": "2026-03-03T02:34:00.000Z",
       "message": "feat: caso donde el jugador 1 anota 3 veces jugador 2 anota 5 veces",
-      "url": "https://github.com/luis-ag23/IngeSoftTennis/commit/HEAD"
+      "url": "https://github.com/luis-ag23/IngeSoftTennis/commit/f75136fc246e5d0a476b99383708abfb68a778f8"
     },
     "stats": {
       "total": 41,
       "additions": 38,
       "deletions": 3,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 12,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Luis Aguilar",
+    "commit": {
+      "date": "2026-03-03T02:44:36.000Z",
+      "message": "feat: añadiendo el html para el juego del tennis",
+      "url": "https://github.com/luis-ag23/IngeSoftTennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 64,
+      "additions": 47,
+      "deletions": 17,
       "date": "2026-03-03"
     },
     "coverage": 100,

@@ -1,19 +1,32 @@
 <!DOCTYPE html>
-<html xml:lang="es">
+<html lang="es">
   <head>
-    <title>Sumador</title>
+    <meta charset="UTF-8" />
+    <title>Tennis</title>
   </head>
   <body>
     <h1>Tennis</h1>
-    <h2>Puntuacion:</h2>
-    <div style="display: flex; gap: 20px;">
-      <h3>Jugador 1: <p class="scoreP1" style="text-align: center;">0</p></h3>
-      <h3>Jugador 2: <p class="scoreP2" style="text-align: center;"> 0</p></h3>
+    <h2>Puntuación:</h2>
+
+    <div style="display: flex; gap: 40px;">
+      <div>
+        <h3>Jugador 1</h3>
+        <p class="scoreP1" style="text-align: center;">Love</p>
+      </div>
+
+      <div>
+        <h3>Jugador 2</h3>
+        <p class="scoreP2" style="text-align: center;">Love</p>
+      </div>
     </div>
+
     <div style="display: flex; gap: 20px">
       <button class="btn-p1">Score Player 1</button>
       <button class="btn-p2">Score Player 2</button>
     </div>
+    <br>
+    <button class="btn-reset">Reiniciar</button>
+
     <script type="module" src="./src/presenter.js"></script>
   </body>
 </html>
