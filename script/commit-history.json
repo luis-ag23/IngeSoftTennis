@@ -133,12 +133,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "eafb634edabc30e3087647172a71cab40ccccfd6",
     "author": "israel antezana",
     "commit": {
       "date": "2026-02-26T14:38:47.000Z",
       "message": "doc: documentacion sobre el diseno",
-      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/HEAD"
+      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/eafb634edabc30e3087647172a71cab40ccccfd6"
     },
     "stats": {
       "total": 8,
@@ -148,6 +148,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Luis Aguilar",
+    "commit": {
+      "date": "2026-03-03T01:36:03.000Z",
+      "message": "feat: Caso donde el partido comienza 0 0",
+      "url": "https://github.com/luis-ag23/IngeSoftTennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 23357,
+      "additions": 22285,
+      "deletions": 1072,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
   }

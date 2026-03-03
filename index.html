@@ -4,16 +4,16 @@
     <title>Sumador</title>
   </head>
   <body>
-    <h1>Sumador</h1>
-    <form id="sumar-form">
-      <label for="primer-numero">Primer número:</label>
-      <input type="number" id="primer-numero" />
-      <label for="segundo-numero">Segundo número:</label>
-      <input type="number" id="segundo-numero" />
-      <input type="submit" value="Sumar" id="sumar-button" />
-    </form>
-    <div id="resultado-div"></div>
-
+    <h1>Tennis</h1>
+    <h2>Puntuacion:</h2>
+    <div style="display: flex; gap: 20px;">
+      <h3>Jugador 1: <p class="scoreP1" style="text-align: center;">0</p></h3>
+      <h3>Jugador 2: <p class="scoreP2" style="text-align: center;"> 0</p></h3>
+    </div>
+    <div style="display: flex; gap: 20px">
+      <button class="btn-p1">Score Player 1</button>
+      <button class="btn-p2">Score Player 2</button>
+    </div>
     <script type="module" src="./src/presenter.js"></script>
   </body>
 </html>
