@@ -364,9 +364,23 @@
     "testId": 10
   },
   {
-    "commitId": "HEAD",
+    "commitId": "455566dd58cd0d5bc75892e04bbb8692e88a640f",
     "commitName": "feat: caso donde el jugador 1 anota 2 veces jugador dos en cero",
     "commitTimestamp": 1772502485653,
     "testId": 10
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1772502551286,
+    "success": true,
+    "testId": 11
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: caso donde el jugador 1 anota 3 veces jugador dos en cero",
+    "commitTimestamp": 1772502592641,
+    "testId": 11
   }
 ]
