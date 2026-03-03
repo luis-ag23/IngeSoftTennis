@@ -15,6 +15,7 @@ it("jugador 1 anota jugador dos en cero", () => {
   });
 
 
+
 it("jugador 1 anota 2 veces jugador dos en cero", () => {
     let tennis = new Tennis();
     tennis.player1Scores();
@@ -28,4 +29,12 @@ it("jugador 1 anota 2 veces jugador dos en cero", () => {
     tennis.player1Scores();
     tennis.player1Scores();
     expect(tennis.score()).toEqual("40 - Love");
+  });
+
+
+it("jugador 2 anota jugador 1 en 0", () => {
+    let tennis = new Tennis();  
+    tennis.player2Scores();     
+    let resultado =tennis.score() 
+    expect(resultado).toEqual("Love - 15"); 
   });

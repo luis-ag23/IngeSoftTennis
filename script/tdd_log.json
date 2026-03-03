@@ -378,9 +378,135 @@
     "testId": 11
   },
   {
-    "commitId": "HEAD",
+    "commitId": "499088545292211e19341c34622a958ee66cdff0",
     "commitName": "feat: caso donde el jugador 1 anota 3 veces jugador dos en cero",
     "commitTimestamp": 1772502592641,
     "testId": 11
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1772502606680,
+    "success": true,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1772503017687,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1772503046271,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 0,
+    "failedTests": 5,
+    "numTotalTests": 5,
+    "timestamp": 1772503133723,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 0,
+    "failedTests": 5,
+    "numTotalTests": 5,
+    "timestamp": 1772503197016,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 0,
+    "failedTests": 5,
+    "numTotalTests": 5,
+    "timestamp": 1772503214929,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1772503220190,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 0,
+    "failedTests": 5,
+    "numTotalTests": 5,
+    "timestamp": 1772503265568,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1772503277057,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 0,
+    "failedTests": 5,
+    "numTotalTests": 5,
+    "timestamp": 1772503315096,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1772503339005,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1772503354098,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 2,
+    "numTotalTests": 5,
+    "timestamp": 1772503377494,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1772503391687,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1772503467903,
+    "success": true,
+    "testId": 12
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: caso donde el jugador 2 anota jugador 1 en 0",
+    "commitTimestamp": 1772503562149,
+    "testId": 12
   }
 ]
