@@ -7,6 +7,7 @@ const scoreP2 = document.querySelector(".scoreP2");
 
 const btnP1 = document.querySelector(".btn-p1");
 const btnP2 = document.querySelector(".btn-p2");
+const btnReset = document.querySelector(".btn-reset");
 
 function updateUI() {
   const result = tennis.score();
@@ -28,5 +29,10 @@ btnP1.addEventListener("click", () => {
 
 btnP2.addEventListener("click", () => {
   tennis.player2Scores();
+  updateUI();
+});
+
+btnReset.addEventListener("click",() => {
+  tennis.reset();
   updateUI();
 });

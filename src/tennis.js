@@ -58,6 +58,10 @@ class Tennis {
     player2Scores(){
         this.player2Points++;
     }
+    reset(){
+        this.player1Points=0;
+        this.player2Points=0;
+    }
 }
 
 export default Tennis;
